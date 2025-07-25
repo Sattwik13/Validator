@@ -2,6 +2,8 @@
 
 # Validator
 
+LIVE- https://validator1.netlify.app/
+
 #### It is a Sign Up Page
 #### For Optimize Form Validation, I used Regular expressions also called regx. 
 #### name and email as props 
