@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import Navbar from "./components/Navbar";
-import SignUp from "./pages/SignUp";
+import SignUp from "./components/signUp";
 import UserCard from "./components/UserCard";
 
 function App() {
