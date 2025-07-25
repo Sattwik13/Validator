@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import Navbar from "./components/Navbar";
-import SignUp from "./pages/signUp";
+import SignUp from "./pages/SignUp";
 import UserCard from "./components/UserCard";
 
 function App() {
@@ -31,7 +31,7 @@ function App() {
             <UserCard name={user.name} email={user.email} />
           )}
         </div>
-        
+
     </div>
   );
 }
